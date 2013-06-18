@@ -1,0 +1,24 @@
+{
+    "name": "appventus/twitter-poster-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony Twitter Poster Bundle",
+    "keywords": ["twitter", "poster"],
+    "homepage": "https://github.com/AppVentus/AvTwitterPosterBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Andrieux (AppVentus)",
+            "email": "paul@appventus.com",
+            "homepage": "http://appventus.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/class-loader": "~2.1"
+    },
+    "autoload": {
+        "psr-0": { "AppVentus\\Awesome\\AvTwitterPosterBundle": "" }
+    },
+    "target-dir": "AppVentus/Awesome/AvTwitterPosterBundle",
+
+    "minimum-stability": "dev"
+}

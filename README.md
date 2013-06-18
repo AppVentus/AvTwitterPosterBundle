@@ -6,6 +6,14 @@ Description:
 
 This bundle allow you to post a twitt each time you want !
 
+
+Installation :
+=
+
+Add this line in your composer.json :
+
+    "appventus/twitter-poster-bundle": "dev-master",
+
 Configuration :
 =
 

@@ -2,20 +2,20 @@ AvTwitterPosterBundle
 =====================
 
 Description:
-=
+-
 
 This bundle allow you to post a twitt each time you want !
 
 
 Installation :
-=
+-
 
 Add this line in your composer.json :
 
     "appventus/twitter-poster-bundle": "dev-master",
 
 Configuration :
-=
+-
 
     parameters:
         twitter_api.consumer_key: xxx
@@ -25,7 +25,7 @@ Configuration :
         
         
 Usage :
-=
+-
 
 To tweet, just call the twitter manager and tweet. It's as easy !
 

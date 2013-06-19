@@ -1,5 +1,5 @@
 services:
   twitter_manager:
-      class:  AppVentus\Awesome\TwitterPosterBundle\Utils\TweetManager
+      class:  AppVentus\Awesome\AvTwitterPosterBundle\Utils\TweetManager
       arguments: ["%twitter_api.consumer_key%", "%twitter_api.consumer_secret%", "%twitter_api.oauth_token%", "%twitter_api.oauth_token_secret%"]
 

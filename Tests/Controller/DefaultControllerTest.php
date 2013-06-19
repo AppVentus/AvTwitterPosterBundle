@@ -1,6 +1,6 @@
 <?php
 
-namespace AppVentus\Awesome\TwitterPosterBundle\Tests\Controller;
+namespace AppVentus\Awesome\AvTwitterPosterBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 

@@ -1,5 +1,5 @@
 <?php
-namespace AppVentus\Awesome\TwitterPosterBundle\Utils;
+namespace AppVentus\Awesome\AvTwitterPosterBundle\Utils;
 
 abstract class OAuthSignatureMethod {
   /**

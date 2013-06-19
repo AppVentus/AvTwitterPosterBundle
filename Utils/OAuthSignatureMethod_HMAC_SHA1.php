@@ -1,5 +1,5 @@
 <?php
-namespace AppVentus\Awesome\TwitterPosterBundle\Utils;
+namespace AppVentus\Awesome\AvTwitterPosterBundle\Utils;
 
 class OAuthSignatureMethod_HMAC_SHA1 extends OAuthSignatureMethod {
   function get_name() {

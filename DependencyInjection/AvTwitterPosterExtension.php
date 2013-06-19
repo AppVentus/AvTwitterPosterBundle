@@ -1,6 +1,6 @@
 <?php
 
-namespace AppVentus\Awesome\TwitterPosterBundle\DependencyInjection;
+namespace AppVentus\Awesome\AvTwitterPosterBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

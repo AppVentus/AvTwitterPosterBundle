@@ -1,6 +1,6 @@
 <?php
 
-namespace AppVentus\Awesome\TwitterPosterBundle;
+namespace AppVentus\Awesome\AvTwitterPosterBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

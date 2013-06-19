@@ -1,5 +1,5 @@
-<?php 
-namespace AppVentus\Awesome\TwitterPosterBundle\Utils;
+<?php
+namespace AppVentus\Awesome\AvTwitterPosterBundle\Utils;
 
 class OAuthToken {
   // access tokens and request tokens
